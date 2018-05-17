@@ -1,0 +1,18 @@
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\RestUtility\bin\Debug\RestUtility.dll
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\RestUtility\bin\Debug\RestUtility.pdb
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\RestUtility\obj\Debug\RestUtility.csprojResolveAssemblyReference.cache
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\RestUtility\obj\Debug\RestUtility.csproj.CoreCompileInputs.cache
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\RestUtility\obj\Debug\RestUtility.dll
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\RestUtility\obj\Debug\RestUtility.pdb
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\bin\Debug\RestUtility.dll
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\bin\Debug\RestUtility.pdb
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\obj\Debug\RestUtility.csprojResolveAssemblyReference.cache
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\obj\Debug\RestUtility.csproj.CoreCompileInputs.cache
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\obj\Debug\RestUtility.dll
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\obj\Debug\RestUtility.pdb
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\bin\Debug\RestUtility.dll
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\bin\Debug\RestUtility.pdb
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\obj\Debug\RestUtility.csprojResolveAssemblyReference.cache
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\obj\Debug\RestUtility.csproj.CoreCompileInputs.cache
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\obj\Debug\RestUtility.dll
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\RestUtility\obj\Debug\RestUtility.pdb

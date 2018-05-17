@@ -1,0 +1,51 @@
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\bin\Debug\Project3_School.exe.config
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\bin\Debug\Project3_School.exe
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\bin\Debug\Project3_School.pdb
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\bin\Debug\Newtonsoft.Json.dll
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\obj\Debug\Project3_School.csprojResolveAssemblyReference.cache
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\obj\Debug\Project3_School.Form1.resources
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\obj\Debug\Project3_School.Properties.Resources.resources
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\obj\Debug\Project3_School.csproj.GenerateResource.cache
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\obj\Debug\Project3_School.csproj.CoreCompileInputs.cache
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\obj\Debug\Project3_School.csproj.CopyComplete
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\obj\Debug\Project3_School.exe
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\obj\Debug\Project3_School.pdb
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\bin\Debug\RestUtility.dll
+D:\Sem 4\Client Design and Implementation\C#\Project3_School\Project3_School\bin\Debug\RestUtility.pdb
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\Project3_School.exe.config
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\Project3_School.exe
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\Project3_School.pdb
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\RestUtility.dll
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\RestUtility.pdb
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.csprojResolveAssemblyReference.cache
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.Form1.resources
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.Properties.Resources.resources
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.csproj.GenerateResource.cache
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.csproj.CoreCompileInputs.cache
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.csproj.CopyComplete
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.exe
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.pdb
+C:\Users\Prajakta\Desktop\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.UnderGradMin.resources
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\Project3_School.exe.config
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\Project3_School.exe
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\Project3_School.pdb
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\RestUtility.dll
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\bin\Debug\RestUtility.pdb
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.csprojResolveAssemblyReference.cache
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.Form1.resources
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.Properties.Resources.resources
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.UnderGradMin.resources
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.csproj.GenerateResource.cache
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.csproj.CoreCompileInputs.cache
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.csproj.CopyComplete
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.exe
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.pdb
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.undergradDegree.resources
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.Courses.resources
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.Fact.resources
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.staffInfo.resources
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.researcharea.resources
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.factRea.resources
+C:\Users\Prajakta\Desktop\rr\Project3_School-20180421T023357Z-001\Project3_School\Project3_School\obj\Debug\Project3_School.Studentresource.resources
